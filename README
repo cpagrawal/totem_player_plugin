@@ -1,5 +1,13 @@
 The original project for this is : https://github.com/phuang/totem-plugin-airplay/issues/2#issuecomment-633746540
-I am just trying to keep it up and running. The credit still goes to the guys who developed it. 
+I am just trying to keep it up and running. The credit still goes to the guys who developed it.
+
+-------------------------------------------------------------------------------
+I did a test on Linux ( Ubuntu 18.04 Bionic version ).
+requirements : 
+1. Python3
+2. if you do not have library avahi installed then please do that.
+-------------------------------------------------------------------------------
+
 
 Totem AirPlay Plugin
 --------------------------------------------------------------------------------

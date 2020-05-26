@@ -20,9 +20,12 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 # DEALINGS IN THE SOFTWARE.
 
+import gi
 from gi.repository import GObject
 from gi.repository import Gio
+gi.require_version('Totem','1.0')
 from gi.repository import Totem
+gi.require_version('Peas','1.0')
 from gi.repository import Peas
 
 import sys

@@ -6,6 +6,7 @@ I did a test on Linux ( Ubuntu 18.04 Bionic version ).
 requirements : 
 1. Python3
 2. if you do not have library avahi installed then please do that.
+3. This will not work on iPhone which has iOS11 or later. 
 -------------------------------------------------------------------------------
 
 
